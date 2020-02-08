@@ -2,22 +2,22 @@
 .topnav {
     color: #ffffff; 
     text-align: center
-    padding 16px;
+    padding: 16px;
     font-size: 20px;
     overflow: hidden; 
 }
 .topnav a {
     float: right;
-    text-align: center;
-    padding: 10px;
-    padding-right: 5.5%;
+    
+    padding-inline-start: 50px;
+    
     font-size: 17px;
     background-color: #ffffff;
     color: #777777;
     text-decoration: none;
     font-family: 'arial', 'helvetica neue', helvetica, sans-serif;
-    margin-right: 5%;
-    text-: right;
+    word-spacing: 3mm;
+    text: right;
 }
 #name {
     float: left;
@@ -25,11 +25,9 @@
     background-color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 25px; 
-    margin-left: 10%;
-    padding-left: 8%;
+    padding: 25px;
     text-align: center;
-    padding-right: 8%;
-    padding-bottom: 50;
+    padding-left: 10%;
 }
 
 .main-container {
@@ -37,16 +35,11 @@
     background-color: #ffffff;
     display: block;
     border-block: solid;
-    block-size: 500px;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-bottom: 10%;
-    margin-top: 10%;
+    block-size: 600px;
+    padding-top: 250px;
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
-    padding-left: 140px;
-    padding-top: 25px;
-    padding-right: 200px;
+    padding: 200px;
     font-size: 20px;
     overflow: scroll;
 }
@@ -61,7 +54,10 @@ main {
     background-color: lightgray;
     background-repeat: repeat; 
     background-size: cover; 
-    padding-top: 1px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
 }
 #about-image {
     float: left;
