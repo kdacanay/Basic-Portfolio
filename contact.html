@@ -6,37 +6,53 @@
     </head>
 
     <body>
-        <main>
-            <header class="top-header">
+        
+        <header class="top-header">    
+            
+            <div class="wrapper">
                 <h1  id="name">Ken Dacanay</h1>
-                <div id="contact">Contact</div>
-                <div id="portfolio">Portfolio</div>
-                <div id="about">About</div>
+                    <div id="contact" href="#">Contact</div>
+                    <div id="portfolio" href="#">Portfolio</div>
+                    <div id="about" href="#">About</div>
+            </div>
+
+        </header>
+            
+        <div class="wrapper">
+            
+            <section class="main-container">
+                <h2 class="contact">Contact</h2>
                 
-            </header>
-        <section class="main-container">
-            <h2 class="contact">Contact</h2>
-            <form action="" method="GET" class="page-form">
+                <form action="" method="GET" class="page-form">
+                
                 <div class="page-form">
+                    
                     <label for="name">Name: </label>
                     <input type="text" name="name" id="name" required>
+                    
                 </div>
+                
                 <div class="page-form">
                     <label for="email">Email: </label>
                     <input type="email" name="email" id="email" required>
                 </div>
+
                 <div class="page-form">
                     <label for="message">Message</label>
                     <textarea id="message" name="message" rows="10" cols="33" required>   
                     </textarea>
                 </div>
+                
                 <div class="page-form">
-                <input type="submit" value="Submit">
+                    <input type="submit" value="Submit">
                 </div>
-            </form>
-        </section>
-        </main>
-        <footer class="page-footer">Copyright 
-        </footer>
+
+                </form>
+            
+            </section>
+
+        <footer class="page-footer">Copyright </footer>
+    
     </body>
+
 </html>
