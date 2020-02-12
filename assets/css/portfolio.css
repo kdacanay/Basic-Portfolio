@@ -6,13 +6,13 @@
 }
 .hangman-box .hangman-text {
     position: absolute;
-    z-index: 999;
     margin: 0 auto;
     left: 0;
     right: 0;
     bottom: 5%;
     width: 275px;
     background-color: #4aaaa5;
+    text-align: center;
 }
 .hangman-text:hover {
     background-color: #205E5B;
@@ -31,13 +31,13 @@
 }
 .rpg-box .rpg-text {
     position: absolute;
-    z-index: 999;
     margin: 0 auto;
     left: 0;
     right: 0;
     bottom: 5%;
     width: 275px;
     background-color: #4aaaa5;
+    text-align: center;
 }
 .rpg-text:hover {
     background-color: #205E5B;
@@ -56,13 +56,13 @@
 }
 .trivia-box .trivia-text {
     position: absolute;
-    z-index: 999;
     margin: 0 auto;
     left: 0;
     right: 0;
     bottom: 5%;
     width: 275px;
     background-color: #4aaaa5;
+    text-align: center;
 }
 .trivia-text:hover {
     background-color: #205E5B;
@@ -82,13 +82,13 @@
 }
 .rutgers-box .rutgers-text {
     position: absolute;
-    z-index: 999;
     margin: 0 auto;
     left: 0;
     right: 0;
     bottom: 5%;
     width: 275px;
     background-color: #4aaaa5;
+    text-align: center;
 }
 .rutgers-text:hover {
     background-color: #205E5B;
@@ -106,13 +106,13 @@
 }
 .rock-box .rock-text {
     position: absolute;
-    z-index: 999;
     margin: 0 auto;
     left: 0;
     right: 0;
     bottom: 5%;
     width: 275px;
     background-color: #4aaaa5;
+    text-align: center;
 }
 .rock-text:hover {
     background-color: #205E5B;
