@@ -119,9 +119,8 @@ body {
     width: 960px; 
     font-family: Arial, Helvetica, sans-serif;
     height: 515px;
-    
-    
 }
+
 #container-heading:hover {
     outline: 0px solid transparent;
     color: #777777;
@@ -204,44 +203,3 @@ body {
     color:#777777;
 }
 
-.text-block {
-    height: 50px;
-    width: 300px;
-    color: #ffffff;
-    background-color: #4aaaa5; 
-}
-
-#hangman {
-    width: 300px;
-    height: 200px;
-    position: absolute;
-   
-}
-#rpg-game {
-    width: 300px;
-    height: 200px;
-    position: absolute;
-
-}
-#trivia-game {
-    width: 300px;
-    height: 200px;
-    position: absolute;
-  
-}
-
-#rutgers-iw {
-    width: 300px;
-    height: 200px;
-    position: absolute;
-
-}
-#rock-ps {
-    width: 300px;
-    height: 200px;
-    position: absolute;
-
-}
-.container {
-    position: relative;
-}
