@@ -2,9 +2,12 @@
     box-sizing: border-box;
 }
 p:hover {
-    color: #dddddd;
-    background-color: #205E5B;
     outline: 0px solid transparent;
+    color: #ffffff;
+    background-image: 
+        linear-gradient( 
+            to right,
+            #1e4543, #91c4c2, #1e4543);
 }
 
 p
@@ -29,8 +32,13 @@ body {
 }
 .top-header:hover {
     outline: 0px solid transparent;
-    background-color: #205E5B;
+    color: #ffffff;
+    background-image: 
+        linear-gradient( 
+            to right,
+            #1e4543, #91c4c2, #1e4543);
 }
+
 .top-header {
     background-color: #ffffff;
     height: 75px;
@@ -50,9 +58,13 @@ body {
 
 #name:hover {
     outline: 0px solid transparent;
-    color: #205E5B;
-    background-color: #777777;
+    color: #dddddd;
+    background-image: 
+        linear-gradient( 
+            to right,
+            #1e4543, #91c4c2, #1e4543);
 }
+
 
 
 #name {
@@ -71,7 +83,7 @@ body {
 }
 #about:hover {
     outline: 0px solid transparent;
-    color: #4aaaa5;
+    color: #ffffff;
     font-weight: bolder;
 }
 
@@ -87,7 +99,7 @@ body {
 
 #portfolio:hover {
     outline: 0px solid transparent;
-    color: #4aaaa5;
+    color: #ffffff;
     font-weight: bolder;
 }
 #portfolio {
@@ -102,7 +114,7 @@ body {
 }
 #contact:hover {
     outline: 0px solid transparent;
-    color: #4aaaa5;
+    color: #ffffff;
     font-weight: bolder;
 }
 #contact {
@@ -126,8 +138,13 @@ body {
 
 #container-heading:hover {
     outline: 0px solid transparent;
-    color: #777777;
-    background-color: #205E5B;
+    color: #ffffff;
+    background-image: 
+        linear-gradient( 
+            to right,
+            #1e4543, #91c4c2, #1e4543);
+    font-weight: bolder;
+
 }
 #container-heading {
     margin-top: 2px;
@@ -194,7 +211,6 @@ body {
     padding: 30px;
     margin-bottom: 5px;
     text-align: left;
-    
 }
 #contact-submit {
     background-color: #4aaaa5;
@@ -205,7 +221,11 @@ body {
 
 #contact-submit:hover {
     outline: 0px solid transparent;
-    background-color: #205E5B;
-    color:#777777;
+    color: #ffffff;
+    background-image: 
+        linear-gradient( 
+            to right,
+            #1e4543, #91c4c2, #1e4543);
+    font-weight: bolder;
 }
 

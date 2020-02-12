@@ -15,8 +15,13 @@
     text-align: center;
 }
 .hangman-text:hover {
-    background-color: #205E5B;
-    color: #777777;
+    outline: 0px solid transparent;
+    color: #ffffff;
+    background-image: 
+        linear-gradient( 
+            to right,
+            #1e4543, #91c4c2, #1e4543);
+    font-weight: bolder;
 }
 #hangman-image {
     height: 200px;
@@ -40,8 +45,13 @@
     text-align: center;
 }
 .rpg-text:hover {
-    background-color: #205E5B;
-    color: #777777;
+    outline: 0px solid transparent;
+    color: #ffffff;
+    background-image: 
+        linear-gradient( 
+            to right,
+            #1e4543, #91c4c2, #1e4543);
+    font-weight: bolder;
 }
 #rpg-image {
     height: 200px;
@@ -65,8 +75,13 @@
     text-align: center;
 }
 .trivia-text:hover {
-    background-color: #205E5B;
-    color: #777777;
+    outline: 0px solid transparent;
+    color: #ffffff;
+    background-image: 
+        linear-gradient( 
+            to right,
+            #1e4543, #91c4c2, #1e4543);
+    font-weight: bolder;
 }
 #trivia-image {
     height: 200px;
@@ -91,8 +106,13 @@
     text-align: center;
 }
 .rutgers-text:hover {
-    background-color: #205E5B;
-    color: #777777;
+    outline: 0px solid transparent;
+    color: #ffffff;
+    background-image: 
+        linear-gradient( 
+            to right,
+            #1e4543, #91c4c2, #1e4543);
+    font-weight: bolder;
 }
 #rutgers-image {
     height: 200px;
@@ -115,8 +135,13 @@
     text-align: center;
 }
 .rock-text:hover {
-    background-color: #205E5B;
-    color: #777777;
+    outline: 0px solid transparent;
+    color: #ffffff;
+    background-image: 
+        linear-gradient( 
+            to right,
+            #1e4543, #91c4c2, #1e4543);
+    font-weight: bolder;
 }
 #rock-image {
     height: 200px;
