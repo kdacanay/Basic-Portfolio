@@ -4,6 +4,7 @@
     margin-left: 30px;
     margin-top: 15px;
 }
+
 .hangman-box .hangman-text {
     position: absolute;
     margin: 0 auto;
@@ -14,6 +15,7 @@
     background-color: #4aaaa5;
     text-align: center;
 }
+
 .hangman-text:hover {
     outline: 0px solid transparent;
     color: #ffffff;
@@ -23,6 +25,7 @@
             #1e4543, #91c4c2, #1e4543);
     font-weight: bolder;
 }
+
 #hangman-image {
     height: 200px;
     width: 275px;
@@ -34,6 +37,7 @@
     margin-right: 345px;
     margin-top: 15px;
 }
+
 .rpg-box .rpg-text {
     position: absolute;
     margin: 0 auto;
@@ -44,6 +48,7 @@
     background-color: #4aaaa5;
     text-align: center;
 }
+
 .rpg-text:hover {
     outline: 0px solid transparent;
     color: #ffffff;
@@ -53,6 +58,7 @@
             #1e4543, #91c4c2, #1e4543);
     font-weight: bolder;
 }
+
 #rpg-image {
     height: 200px;
     width: 275px;
@@ -64,6 +70,7 @@
     margin-left: 30px;
     margin-top: 25px;
 }
+
 .trivia-box .trivia-text {
     position: absolute;
     margin: 0 auto;
@@ -74,6 +81,7 @@
     background-color: #4aaaa5;
     text-align: center;
 }
+
 .trivia-text:hover {
     outline: 0px solid transparent;
     color: #ffffff;
@@ -83,6 +91,7 @@
             #1e4543, #91c4c2, #1e4543);
     font-weight: bolder;
 }
+
 #trivia-image {
     height: 200px;
     width: 275px;  
@@ -93,8 +102,8 @@
     float: right;
     margin-right: 345px;
     margin-top: 25px;
-
 }
+
 .rutgers-box .rutgers-text {
     position: absolute;
     margin: 0 auto;
@@ -105,6 +114,7 @@
     background-color: #4aaaa5;
     text-align: center;
 }
+
 .rutgers-text:hover {
     outline: 0px solid transparent;
     color: #ffffff;
@@ -114,16 +124,19 @@
             #1e4543, #91c4c2, #1e4543);
     font-weight: bolder;
 }
+
 #rutgers-image {
     height: 200px;
     width: 275px;
 }
+
 .rock-box {
     position: relative;
     float: left;
     margin-left: 30px;
     margin-top: 25px;
 }
+
 .rock-box .rock-text {
     position: absolute;
     margin: 0 auto;
@@ -134,6 +147,7 @@
     background-color: #4aaaa5;
     text-align: center;
 }
+
 .rock-text:hover {
     outline: 0px solid transparent;
     color: #ffffff;
@@ -143,10 +157,12 @@
             #1e4543, #91c4c2, #1e4543);
     font-weight: bolder;
 }
+
 #rock-image {
     height: 200px;
     width: 275px;
 }
+
 .main-container {
     background-color: #ffffff;
     margin-top: 50px;
@@ -154,4 +170,4 @@
     font-family: Arial, Helvetica, sans-serif;
     height: 825px;
     color: #ffffff;
-}cd
+}
